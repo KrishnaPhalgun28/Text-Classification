@@ -1,2 +1,2 @@
 # Text-Classification
-#CNN #BERT
+#CNN #BERT #TensorFlow-Hub &CoLab

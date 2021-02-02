@@ -1,0 +1,6 @@
+pip install numpy==1.19.4
+pip install pandas==1.1.5
+pip install tensorflow==2.4.0
+pip install tensorflow-hub==0.10.0
+pip install bert-for-tf2==0.14.7
+pip install sentencepiece==0.1.94
